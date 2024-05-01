@@ -1,3 +1,5 @@
+package estudos.bootcamp;
+
 public class MinhaClasse {
 
     // main é onde sera a sua classe principal executavel
