@@ -1,4 +1,4 @@
-package estudos.bootcamp;
+package estudos.introducao;
 
 public class BoletimEstudantil {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package estudos.bootcamp;
+package estudos.introducao;
 
 public class MinhaClasse {
 
