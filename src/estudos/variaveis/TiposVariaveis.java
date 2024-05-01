@@ -5,11 +5,11 @@ public class TiposVariaveis {
     public static void main(String[] args) {
 
         byte idade = 123; // -128 a 127
-		short ano = 2021; // -32.768 a 32.767
-		int cep = 21070333; //Se começar com zero, talvez tenha que ser outro tipo (String) pois o Java não aceita inicio int com zero
-		long cpf = 98765432109L; //Precisa encerrar com o L para o Java entender que sera do tipo long; e se começar com zero, talvez tenha que ser outro tipo
-		float pi = 3.14F; //Precisa encerrar com F para entender que sera do tipo float.
-		double salario = 1275.33;
+	short ano = 2021; // -32.768 a 32.767
+	int cep = 21070333; //Se começar com zero, talvez tenha que ser outro tipo (String) pois o Java não aceita inicio int com zero
+	long cpf = 98765432109L; //Precisa encerrar com o L para o Java entender que sera do tipo long; e se começar com zero, talvez tenha que ser outro tipo
+	float pi = 3.14F; //Precisa encerrar com F para entender que sera do tipo float.
+	double salario = 1275.33;
         char genero = 'M';
         String nome = "Robson";
 
