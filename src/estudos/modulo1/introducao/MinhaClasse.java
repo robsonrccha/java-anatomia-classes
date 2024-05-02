@@ -21,7 +21,7 @@ public class MinhaClasse {
         final double pi = 3.14;
         final int estadosBrasileiros = 27;
 
-        // variavel boleana tera valor sim ou não*verdadeiro ou falsa)
+        // variavel boleana tera valor sim ou não(verdadeiro ou falso)
         boolean maiorIdade = true;
 
         System.out.println(nomeCompleto);
