@@ -30,7 +30,7 @@ public class MinhaClasse {
 
 
     // Para declarar metodos
-    // tipoRetorno NomeObjetivoInfinitibo Parametros(opcional)
+    // tipoRetorno NomeObjetivoInfinitivo Parametros(opcional)
     public static String nomeCompleto (String primeiroNome, String segundoNome){
         return "Resultado do metodo " + primeiroNome + " " + segundoNome;
     };
