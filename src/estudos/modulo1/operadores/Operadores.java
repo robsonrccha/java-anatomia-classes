@@ -1,3 +1,5 @@
+package estudos.modulo1.operadores;
+
 import java.util.Date;
 
 public class Operadores {
@@ -46,7 +48,31 @@ public class Operadores {
 
         boolean verdadeiro = true;
         System.out.println("Inverteu true em " + !verdadeiro); //para negar um dado booleano usa-se a exclamação(!) antes da variavel.
-	
+
+
+        
+/* OPERADORES TERNÁRIOS: é representado pelos símbolos "?" e ":" utilizados na seguinte estrutura de sintaxe.
+
+        É uma forma resumida para definir uma condição e escolher por um dentre dois valores. Você deve pensar numa condição ternária, como se fosse uma condição IF normal, porém, de uma forma em que toda a sua estrutura estará escrita numa única linha. */
+
+        int a, b;
+
+        a = 5;
+        b = 5;
+
+        /* EXEMPLO DE CONDICIONAL UTILIZANDO UMA ESTRUTURA IF/ELSE
+
+        if(a==b)
+        resultado = "verdadeiro";
+        else
+        resultado = "falso"; 
+        
+        */
+
+        //MESMA CONDICIONAL, MAS DESSA VEZ, UTILIZANDO O OPERADOR CONDICIONAL TERNÁRIO
+        String resultado2 = (a == b) ? "verdadeiro" : "false";
+
+        System.out.println(resultado2);
     }
 
 }
