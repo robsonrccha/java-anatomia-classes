@@ -2,7 +2,8 @@ package estudos.modulo1;
 
 public class VariaveisConstantes {
 
-    public static void main(String[] args) {
+    @SuppressWarnings("unused")
+	public static void main(String[] args) {
 		/* esta linha é considerada como declaração de variável iniciamos a existência
 		 * variavel numero com valor 5 regra: tipo + nome + valor */
 

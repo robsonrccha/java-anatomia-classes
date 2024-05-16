@@ -3,7 +3,8 @@ package estudos.modulo1;
 public class MinhaClasse {
 
     // main é onde sera a sua classe principal executavel
-    public static void main(String[] args) {
+    @SuppressWarnings("unused")
+	public static void main(String[] args) {
 
         System.out.println("Olá mundo!");
 

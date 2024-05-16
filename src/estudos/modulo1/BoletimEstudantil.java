@@ -5,7 +5,7 @@ public class BoletimEstudantil {
         
         int mediaFinal = 5;
         
-/* PRINCIPIO DO IDENTAÇÃO (TAB)
+/* PRINCIPIO DA IDENTAÇÃO (TAB)
 Pode ter um nivel entre 4 - 6 de identação, caso supere esse valor seria interessante
 rever o codigo para melhorar a identação e sua profundidade */
 

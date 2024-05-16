@@ -4,7 +4,8 @@ import java.util.Date;
 
 public class OperadoresAtribuicao {
 
-    public static void main(String[] args) {
+    @SuppressWarnings("unused")
+	public static void main(String[] args) {
 
 
 // OPERADORES DE ATRIBUIÇÃO: = (igual).
