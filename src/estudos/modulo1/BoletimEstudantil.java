@@ -1,4 +1,4 @@
-package estudos.modulo1.introducao;
+package estudos.modulo1;
 
 public class BoletimEstudantil {
     public static void main(String[] args) {

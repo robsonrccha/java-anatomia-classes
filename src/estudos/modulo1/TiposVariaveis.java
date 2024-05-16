@@ -1,4 +1,4 @@
-package estudos.modulo1.variaveis;
+package estudos.modulo1;
 
 public class TiposVariaveis {
 

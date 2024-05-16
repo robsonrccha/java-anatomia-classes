@@ -1,4 +1,4 @@
-package estudos.modulo1.introducao;
+package estudos.modulo1;
 
 public class MinhaClasse {
 
